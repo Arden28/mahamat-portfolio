@@ -2,11 +2,11 @@
 
 Welcome to my Developer Portfolio! This project showcases a sleek, one-page portfolio designed for developers. Built with modern technologies and a clean design, it offers a compact yet engaging presentation of your work and skills. 
 
-![Portfolio GIF Placeholder](https://github.com/7wenty7/Developper-Portfolio/blob/master/Demo.gif) 
+<!-- ![Portfolio GIF Placeholder](https://github.com/7wenty7/Developper-Portfolio/blob/master/Demo.gif)  -->
 
 ## Demo
 
-Check out the live demo of the portfolio [here](https://slimbouras.com/). 
+Check out the live demo of the portfolio [here](https://ardenbouet.koverae.com/). 
 
 ## Features
 
@@ -71,6 +71,9 @@ To deploy your portfolio, you can use platforms like Vercel or Netlify. Follow t
 
 ### Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+
+### Credit
+Thanks to [Slim Bouras](https://github.com/7wenty7) for building the original.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
