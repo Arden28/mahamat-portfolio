@@ -332,7 +332,7 @@ export const Experiences = () => {
                     
 
                     </ol>
-                    <a className="group mt-5 w-full inline-flex items-center justify-center rounded-md border drop-shadow-md py-2.5 px-3  outline-offset-2 transition font-medium bg-zinc-50 text-zinc-900 dark:text-zinc-300 hover:bg-primary hover:text-white" href="/files/cv-v2.pdf">
+                    <a className="group mt-5 w-full inline-flex items-center justify-center rounded-md border drop-shadow-md py-2.5 px-3  outline-offset-2 transition font-medium bg-zinc-50 text-zinc-900 dark:text-zinc-300 hover:bg-primary hover:text-white" href="/files/cv.pdf">
                         {t('experiences.download')}                  
                     </a>
                 </div>
